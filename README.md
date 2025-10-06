@@ -1,2 +1,2 @@
-# MGE-My-Game-Engine-
+# MGE (My Game Engine)
 My Game Engine
